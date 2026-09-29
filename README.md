@@ -90,9 +90,11 @@ p{
 
 <div class="date">
 Palaiseau, le 28 septembre 2026
-À l’attention des Responsables de recrutement chez ID Logistics, Site Orgon, Provence-Alpes-Côte d’Azur 13660
-</div>
-
+    </div>
+<div class="coordonnees">
+<strong> À l’attention des Responsables de recrutement chez ID Logistics</strong> 
+    <br>Site Orgon 
+    <br>Provence-Alpes-Côte d’Azur 13660
 </div>
 
 <h1>Candidature – Alternance Animateur QHSE – ID Logistics</h1>
